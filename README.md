@@ -1,6 +1,6 @@
 # 三國群英傳7 RogueLike 存檔修改器
 
-這是一個用於處理三國群英傳7遊戲存檔的工具，能夠自動修改武將特性，增強角色能力。
+這是一個用於處理三國群英傳7遊戲存檔的工具，能夠根據公式自動修改武將特性，平衡不同角色能力。
 
 [>>>跳轉下載頁<<<](https://github.com/RanceJen/roguelike-sg7/releases)
 > 需下載 roguelike.exe 及 roguelike.conf 並放置在同一資料夾內
