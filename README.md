@@ -2,7 +2,7 @@
 
 這是一個用於處理三國群英傳7遊戲存檔的工具，能夠自動修改武將特性，增強角色能力。
 
-[>>>跳轉下載頁<<<](https://gitee.com/BodomMoon/roguelike-sg7/releases/tag/1.0.0)
+[>>>跳轉下載頁<<<](https://github.com/RanceJen/roguelike-sg7/releases)
 > 需下載 roguelike.exe 及 roguelike.conf 並放置在同一資料夾內
 
 **基於ChatGPT-4o及DeepSeek-R1分析後產生的武將屬性值算法來自動修正武將能力，目標在讓每一場戰鬥都更多變數，每次獲得武將都有新的驚喜。**
